@@ -1,4 +1,4 @@
-<h1 align="center">Vet Site Sidebar</h1>
+<h1 align="center">Sidebar</h1>
 
 <img src="./assets/animao.gif" alt="Sidebar" />
 
